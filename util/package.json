@@ -1,5 +1,5 @@
 {
-  "name": "ripper",
+  "name": "util",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "pngjs": "^7.0.0",
-    "puppeteer": "^21.7.0",
-    "sqlite": "^5.1.1",
-    "sqlite3": "^5.1.7"
-  },
   "devDependencies": {
-    "@types/pngjs": "^6.0.4",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   }
